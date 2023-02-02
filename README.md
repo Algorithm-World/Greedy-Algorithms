@@ -1,2 +1,4 @@
 # Greedy-Algorithms
 This repository is dedicated to exploring the world of greedy algorithms and their implementation in multiple programming languages.
+
+It covers a wide range of greedy algorithm concepts, including selection of locally optimal solutions with the hope of finding a globally optimal solution. Each algorithm is presented with a clear explanation of its working principles, time and space complexity, and code examples for easy understanding. Whether you're a beginner looking to learn about greedy algorithms or an experienced programmer seeking to expand your knowledge, this repository is a valuable resource for anyone interested in this field. With its comprehensive coverage of greedy algorithms, this repository is an excellent tool for improving your skills and finding the best solution for your optimization problems.
